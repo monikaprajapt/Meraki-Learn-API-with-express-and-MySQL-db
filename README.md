@@ -13,8 +13,10 @@ Installation
 
 Explanation
 
-first create database and sacond create table and than insert data table
-curd_opretionand table
+1=Firstly we have to create database
+2=sacond we have create table
+3=then insert data
+4=last curd-opreation(get, put, post, delete)
 
 
 
